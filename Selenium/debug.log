@@ -1,0 +1,8 @@
+[0520/205120.744:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0525/110930.944:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0527/154714.015:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0621/202400.016:ERROR:process_info.cc(329)] VirtualQueryEx: Toegang geweigerd. (0x5)
+[0621/202400.019:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0621/202400.021:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0621/202400.021:ERROR:exception_snapshot_win.cc(88)] thread ID 4760 not found in process
+[0621/202400.021:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Er is geprobeerd toegang te krijgen tot een proces dat wordt afgesloten. (0xc000010a)

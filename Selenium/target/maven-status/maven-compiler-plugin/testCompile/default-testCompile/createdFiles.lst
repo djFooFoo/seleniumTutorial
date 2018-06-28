@@ -1,0 +1,11 @@
+ContinuumSuiteTest.class
+examples\tests\Continuum.class
+examples\webdriver\WebDriverFactory.class
+examples\tests\Google.class
+examples\webdriver\DownloadUtils.class
+examples\tests\SpringIo.class
+examples\webdriver\Settings.class
+examples\pages\springio\SpringDownload.class
+examples\pages\google\GoogleResults.class
+examples\pages\google\GoogleSearch.class
+examples\pages\continuum\Contact.class
